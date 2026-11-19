@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 06.10.26
+## Date: 19/11/2026
 
 ## AIM
 To develop a Django Application to store and retrieve data from a Vehicle Service Database platform using Object Relational Mapping(ORM).
@@ -59,7 +59,8 @@ admin.site.register(bike_service_DB,bike_service_DBAdmin)
 
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1173" height="607" alt="Screenshot 2026-11-19 132519" src="https://github.com/user-attachments/assets/100a9253-1a57-40d8-86c5-02fbad74ce12" />
+
 
 
 ## RESULT
